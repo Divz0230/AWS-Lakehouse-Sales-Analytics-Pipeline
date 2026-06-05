@@ -1,0 +1,101 @@
+order_id,order_date,customer_id,customer_name,city,product_category,product_name,quantity,unit_price,sales_amount
+ORD1000,2025-01-01,CUST007,Vikram,Pune,Sports,Rice,2,4232.0,8464
+ORD1001,2025-01-02,CUST020,Neha,Pune,Grocery,Rice,3,3951.0,11853
+ORD1002,2025-01-03,CUST029,Priya,Delhi,Furniture,Monitor,1,3540.0,3540
+ORD1003,2025-01-04,CUST015,,Bangalore,Clothing,Cricket Bat,8,3866.0,30928
+ORD1004,2025-01-05,CUST011,Sneha,Mumbai,Electronics,Monitor,3,2426.0,7278
+ORD1005,2025-01-06,CUST008,Priya,Nagpur,Electronics,Cricket Bat,7,3014.0,21098
+ORD1006,2025-01-07,CUST029,Priya,Delhi,Grocery,Monitor,5,,20260
+ORD1007,2025-01-08,CUST021,Pooja,Bangalore,Clothing,T-Shirt,5,695.0,3475
+ORD1008,2025-01-09,CUST007,Sneha,Delhi,Sports,Rice,7,828.0,5796
+ORD1009,2025-01-10,CUST026,Pooja,Hyderabad,Clothing,Laptop,9,1465.0,13185
+ORD1010,2025-01-11,CUST019,Neha,Bangalore,Grocery,Cricket Bat,5,4592.0,22960
+ORD1011,2025-01-12,CUST023,Karan,Bangalore,Grocery,Cricket Bat,1,798.0,798
+ORD1012,2025-01-13,CUST011,Neha,Mumbai,Clothing,Laptop,1,495.0,495
+ORD1013,2025-01-14,CUST011,Karan,Bangalore,Grocery,Monitor,2,4271.0,8542
+ORD1014,2025-01-15,CUST024,Pooja,Delhi,Clothing,Cricket Bat,6,4460.0,26760
+ORD1015,2025-01-16,CUST021,Neha,Bangalore,Furniture,T-Shirt,9,,23418
+ORD1016,2025-01-17,CUST004,Sneha,Mumbai,Clothing,Rice,8,1919.0,15352
+ORD1017,2025-01-18,CUST008,Amit,Mumbai,Clothing,Laptop,5,817.0,4085
+ORD1018,2025-01-19,CUST024,Pooja,Hyderabad,Grocery,Rice,1,2882.0,2882
+ORD1019,2025-01-20,CUST003,Karan,Delhi,Grocery,Cricket Bat,7,3677.0,25739
+ORD1020,2025-01-21,CUST022,Vikram,Pune,Electronics,Cricket Bat,5,243.0,1215
+ORD1021,2025-01-22,CUST021,Karan,Pune,Electronics,Laptop,6,3240.0,19440
+ORD1022,2025-01-23,CUST002,Vikram,Bangalore,Furniture,T-Shirt,7,4591.0,32137
+ORD1023,2025-01-24,CUST024,Priya,Hyderabad,Electronics,Chair,3,3038.0,9114
+ORD1024,2025-01-25,CUST012,Neha,,Clothing,Laptop,3,3736.0,11208
+ORD1025,2025-01-26,CUST030,Vikram,Bangalore,Grocery,Chair,5,3322.0,16610
+ORD1026,2025-01-27,CUST006,Karan,Hyderabad,Electronics,Monitor,6,1267.0,7602
+ORD1027,2025-01-28,CUST002,Priya,Delhi,Electronics,Chair,9,,24444
+ORD1028,2025-01-29,CUST028,Amit,Delhi,Furniture,T-Shirt,5,1162.0,5810
+ORD1029,2025-01-30,CUST021,Sneha,Delhi,Furniture,Monitor,1,2256.0,2256
+ORD1030,2025-01-31,CUST001,Sneha,Delhi,Clothing,,4,3082.0,12328
+ORD1031,2025-02-01,CUST012,Sneha,Delhi,Grocery,Monitor,5,3394.0,16970
+ORD1032,2025-02-02,CUST026,Vikram,Hyderabad,Furniture,,5,4829.0,24145
+ORD1033,2025-02-03,CUST022,Amit,Hyderabad,Electronics,T-Shirt,7,1256.0,8792
+ORD1034,2025-02-04,CUST029,Vikram,,Grocery,Chair,4,832.0,3328
+ORD1035,2025-02-05,CUST012,Neha,Pune,Grocery,Chair,1,4430.0,4430
+ORD1036,2025-02-06,CUST025,Vikram,Delhi,Electronics,Chair,5,4946.0,24730
+ORD1037,2025-02-07,CUST017,Amit,Nagpur,Furniture,Laptop,7,1053.0,7371
+ORD1038,2025-02-08,CUST027,Amit,Hyderabad,Electronics,Laptop,6,2639.0,15834
+ORD1039,2025-02-09,CUST027,,,Grocery,Laptop,5,3424.0,17120
+ORD1040,2025-02-10,CUST010,Amit,Nagpur,Sports,T-Shirt,4,3401.0,13604
+ORD1041,2025-02-11,CUST028,Karan,Nagpur,Sports,Monitor,2,,3284
+ORD1042,2025-02-12,CUST028,Amit,Mumbai,Clothing,Cricket Bat,4,1291.0,5164
+ORD1043,2025-02-13,CUST016,Sneha,Hyderabad,Electronics,Chair,3,3093.0,9279
+ORD1044,2025-02-14,CUST015,Karan,Nagpur,Electronics,Chair,1,2781.0,2781
+ORD1045,2025-02-15,CUST030,Karan,Delhi,Clothing,T-Shirt,8,,10536
+ORD1046,2025-02-16,CUST030,Neha,Bangalore,Clothing,Chair,5,1640.0,8200
+ORD1047,2025-02-17,CUST015,Rahul,Nagpur,Clothing,Laptop,4,3336.0,13344
+ORD1048,2025-02-18,CUST030,Rahul,Mumbai,Grocery,Cricket Bat,8,2486.0,19888
+ORD1049,2025-02-19,CUST019,Amit,Hyderabad,Electronics,Rice,7,3819.0,26733
+ORD1050,2025-02-20,CUST012,Karan,Mumbai,Grocery,Chair,2,1488.0,2976
+ORD1051,2025-02-21,CUST023,Rahul,Nagpur,Clothing,Laptop,1,1956.0,1956
+ORD1052,2025-02-22,CUST020,Rahul,,Electronics,Rice,4,1465.0,5860
+ORD1053,2025-02-23,CUST025,Amit,Bangalore,Grocery,Cricket Bat,8,599.0,4792
+ORD1054,2025-02-24,CUST003,Rahul,Nagpur,Grocery,Rice,2,1780.0,3560
+ORD1055,2025-02-25,CUST005,Vikram,Mumbai,Clothing,Laptop,3,610.0,1830
+ORD1056,2025-02-26,CUST019,Priya,Pune,Electronics,Monitor,1,4412.0,4412
+ORD1057,2025-02-27,CUST007,Neha,Delhi,Clothing,Monitor,1,1424.0,1424
+ORD1058,2025-02-28,CUST021,,Mumbai,Electronics,Rice,3,1255.0,3765
+ORD1059,2025-03-01,CUST009,Amit,Hyderabad,Sports,T-Shirt,5,1927.0,9635
+ORD1060,2025-03-02,CUST007,Sneha,Nagpur,Furniture,Rice,3,3241.0,9723
+ORD1061,2025-03-03,CUST018,,Delhi,Furniture,Chair,1,3586.0,3586
+ORD1062,2025-03-04,CUST004,Amit,Nagpur,Furniture,Chair,1,1910.0,1910
+ORD1063,2025-03-05,CUST025,Karan,Hyderabad,Clothing,Monitor,8,3023.0,24184
+ORD1064,2025-03-06,CUST028,Sneha,Nagpur,Sports,,2,2314.0,4628
+ORD1065,2025-03-07,CUST014,Priya,Pune,Electronics,Laptop,3,4286.0,12858
+ORD1066,2025-03-08,CUST018,Amit,Delhi,Grocery,Chair,2,813.0,1626
+ORD1067,2025-03-09,CUST026,Karan,Delhi,Electronics,Monitor,3,3702.0,11106
+ORD1068,2025-03-10,CUST009,Neha,Hyderabad,Grocery,Cricket Bat,7,4234.0,29638
+ORD1069,2025-03-11,CUST026,Neha,Pune,Electronics,Monitor,1,3622.0,3622
+ORD1070,2025-03-12,CUST021,Pooja,Mumbai,Sports,Chair,8,4368.0,34944
+ORD1071,2025-03-13,CUST002,Karan,Nagpur,Grocery,Chair,2,4848.0,9696
+ORD1072,2025-03-14,CUST020,Vikram,Bangalore,Clothing,Monitor,3,4949.0,14847
+ORD1073,2025-03-15,CUST028,Rahul,Nagpur,Electronics,Laptop,9,1343.0,12087
+ORD1074,2025-03-16,CUST015,Sneha,Nagpur,Electronics,Rice,7,3809.0,26663
+ORD1075,2025-03-17,CUST028,Karan,Mumbai,Grocery,Chair,4,1181.0,4724
+ORD1076,2025-03-18,CUST007,,Nagpur,Clothing,Monitor,5,555.0,2775
+ORD1077,2025-03-19,CUST012,Rahul,Pune,Clothing,Monitor,2,994.0,1988
+ORD1078,2025-03-20,CUST029,Rahul,Pune,Sports,T-Shirt,8,1484.0,11872
+ORD1079,2025-03-21,CUST008,Amit,Delhi,Clothing,Rice,4,2058.0,8232
+ORD1080,2025-03-22,CUST015,Rahul,Hyderabad,Clothing,Cricket Bat,9,3172.0,28548
+ORD1081,2025-03-23,CUST003,Vikram,Bangalore,Clothing,Laptop,5,2096.0,10480
+ORD1082,2025-03-24,CUST014,Neha,Nagpur,Furniture,Cricket Bat,9,4385.0,39465
+ORD1083,2025-03-25,CUST017,Pooja,Nagpur,Sports,Rice,4,604.0,2416
+ORD1084,2025-03-26,CUST004,Rahul,Mumbai,Electronics,Rice,5,1314.0,6570
+ORD1085,2025-03-27,CUST018,Amit,Hyderabad,Grocery,,9,1631.0,14679
+ORD1086,2025-03-28,CUST008,Vikram,Pune,Electronics,Cricket Bat,8,3540.0,28320
+ORD1087,2025-03-29,CUST004,Priya,Bangalore,Sports,Rice,3,923.0,2769
+ORD1088,2025-03-30,CUST002,Neha,Delhi,Grocery,Monitor,1,1028.0,1028
+ORD1089,2025-03-31,CUST030,Neha,Pune,Sports,Cricket Bat,3,233.0,699
+ORD1090,2025-04-01,CUST006,Pooja,Hyderabad,Clothing,Rice,4,2205.0,8820
+ORD1091,2025-04-02,CUST022,Neha,Delhi,Grocery,Monitor,2,3727.0,7454
+ORD1092,2025-04-03,CUST010,Rahul,,Clothing,T-Shirt,1,4880.0,4880
+ORD1093,2025-04-04,CUST004,Amit,Mumbai,Electronics,,7,1952.0,13664
+ORD1094,2025-04-05,CUST022,Neha,Nagpur,Electronics,Cricket Bat,8,4275.0,34200
+ORD1040,2025-02-10,CUST010,Amit,Nagpur,Sports,T-Shirt,4,3401.0,13604
+ORD1031,2025-02-01,CUST012,Sneha,Delhi,Grocery,Monitor,5,3394.0,16970
+ORD1046,2025-02-16,CUST030,Neha,Bangalore,Clothing,Chair,5,1640.0,8200
+ORD1058,2025-02-28,CUST021,,Mumbai,Electronics,Rice,3,1255.0,3765
+ORD1077,2025-03-19,CUST012,Rahul,Pune,Clothing,Monitor,2,994.0,1988
